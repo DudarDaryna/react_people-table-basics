@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.scss"],"names":[],"mappings":"AAEA,QACE,kBAAmB","file":"main.b7886eed.chunk.css","sourcesContent":["@import 'bulma/css/bulma.css';\n\n.Header {\n  margin-bottom: 20px;\n}\n"]}
